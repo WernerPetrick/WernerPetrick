@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://i.ibb.co/wNdV8TS/Rocket.png" alt="Rocket" border="0" width="120">
 </div>
 
-
 I'm a self-taught coder who has been passionately diving into the world of technology.
 
 My preferred technologies are Python, Ruby on Rails and MongoDB, I also use HTMX in my personal project. My professional career consists mostly of Ruby on Rails, React and Flutter.
@@ -21,23 +20,23 @@ When I'm not coding, you can often find me tinkering with my 3D printer, bringin
 <br/>
 <br/>
 
+### Current Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,dart,flutter,firebase,postgres,react,js,html,css,bootstrap,tailwind" />
+  </a>
+</p>
+
+### My Activity
+
 ![Werner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WernerPetrick&theme=nightowl)
 
 <br/>
 
-<div align="center">
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" height="120"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="120"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="120"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="120"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="120"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="120"/>
-  <br/>
-</div>
-
+### Interested Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=htmx,mongodb,py,flask,go,fastapi,godot,md,raspberrypi" />
+  </a>
+</p>
