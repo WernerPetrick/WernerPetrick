@@ -17,9 +17,6 @@ Throughout my journey, I've always been inspired by the vast possibilities the i
 
 When I'm not coding, you can often find me tinkering with my 3D printer, bringing my creative ideas to life. I'm also an avid consumer of technology-related content on platforms like YouTube, where I enjoy staying up to date with the latest trends, projects, and innovations in the coding community.
 
-<br/>
-<br/>
-
 ### Current Technologies
 
 <p align="center">
