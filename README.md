@@ -17,23 +17,7 @@ Throughout my journey, I've always been inspired by the vast possibilities the i
 
 When I'm not coding, you can often find me tinkering with my 3D printer, bringing my creative ideas to life. I'm also an avid consumer of technology-related content on platforms like YouTube, where I enjoy staying up to date with the latest trends, projects, and innovations in the coding community.
 
-### Current Technologies
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,dart,flutter,firebase,postgres,react,js,html,css,bootstrap,tailwind" />
-  </a>
-</p>
-
 ### My Activity
 
 ![Werner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WernerPetrick&theme=nightowl)
 
-<br/>
-
-### Interested Technologies
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=htmx,mongodb,py,flask,go,fastapi,godot,md,raspberrypi" />
-  </a>
-</p>
