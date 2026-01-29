@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # Hi there, I'm Werner! 👋
 
 <div align="center">
-  <h4>Full Stack Developer | Ruby on Rails | Python Enthuatist |</h4>
+  <h4>Full Stack Developer | Ruby | Ruby on Rails |</h4>
   <img src="https://i.ibb.co/wNdV8TS/Rocket.png" alt="Rocket" border="0" width="120">
 </div>
 
